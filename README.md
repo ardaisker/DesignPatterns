@@ -1,5 +1,5 @@
 # Design Patterns
-This report is written with the supervision of Prof. Dr. Mehmet Akşit in order to add new flexibility requirements to the War Game in a scenario that our group members are engineers that work for the game company and we were assigned to make the game more flexible with implementing suitable Design Patterns to the required problem.
+This report has written with the supervision of Prof. Dr. Mehmet Akşit in order to add new flexibility requirements to the War Game in a scenario that our group members are engineers that work for the game company and we were assigned to make the game more flexible with implementing suitable Design Patterns to the required problem.
 ## Main Goal
 The goal of this report is to analyze the software architecture of the war game,
 and to define new flexibility requirements to make the game more scalable,
